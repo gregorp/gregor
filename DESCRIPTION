@@ -1,0 +1,14 @@
+Package: gregor
+Type: Package
+Title: Gregor Thomas's Miscellaneous Functions
+Version: 0.1
+Date: 2015-11-11
+Author: Gregor Thomas <gregor.p.thomas@gmail.com> [aut,cre]
+Maintainer: Gregor Thomas <gregor.p.thomas@gmail.com>
+Description: Miscellaneous functions I find useful.
+License: MIT + file LICENSE
+LazyData: TRUE
+Imports:
+    ggplot2,
+    extrafont
+RoxygenNote: 5.0.1
